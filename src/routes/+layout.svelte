@@ -14,11 +14,10 @@
 		<div class="h-8 bg-primary"></div>
 		<div class="container mx-auto flex justify-between py-4 text-lg">
 			<div>LOGO</div>
-			<a href="/">home</a>
-			<a href="/missions">missions and activities</a>
-			<a href="/">?</a>
-			<a href="/">?</a>
-			<a href="/">?</a>
+			<a href="/">HOME</a>
+			<a href="/missions">OUR TEAM</a>
+			<a href="/">COMMUNITY FUND</a>
+			<a href="/">SERVICE PROJECTS</a>
 			<button class="btn btn-accent">Join Us!</button>
 		</div>
 	</nav>
